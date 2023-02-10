@@ -2,6 +2,8 @@
 Lörtsy Keyboard, 75% ergo board using the Blackpill controller.
 Layout options are 2u or 1u thumb keys on either side.
 
+![Lörtsy](/Assets/lortsyboard.jpg)
+
 # Parts
  - 74-76x MX Hotswap sockets depending or your preferred layout.
  - Optional: 1-2x 2u Stabilizers.
